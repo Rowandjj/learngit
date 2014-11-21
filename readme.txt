@@ -10,3 +10,7 @@ another person also add some content in dev branch!
 conflict fixed!!!
 
 add sth......master
+
+conflict fixed again......
+
+conflict fixed again.........
